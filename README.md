@@ -1,7 +1,3 @@
-# inmersion-en-datos-inmuebles
-
-#InmersionEnDatosAlura
-
 # Análisis de Inmuebles
 Este repositorio contiene el trabajo realizado durante el curso "Inmersión en Datos" de Alura, donde se llevó a cabo un análisis detallado de datos relacionados con inmuebles de la ciudad de Bogotá. A lo largo del curso, se exploraron diversas técnicas de análisis de datos, limpieza de datos y se aplicaron modelos de regresión lineal para predecir el precio de los inmuebles en función de sus características.
 
